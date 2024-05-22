@@ -1,5 +1,5 @@
 import Layout from "../../components/layout/Layout";
-import * as userService from "../../services/user.service";
+import * as userService from "../../services/user.service.js";
 import React from "react";
 import { useEffect, useState } from "react";
 import { Card, Col, Row } from "react-bootstrap";
